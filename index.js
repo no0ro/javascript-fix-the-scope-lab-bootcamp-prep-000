@@ -12,15 +12,10 @@ function yourAnimal() {
 myAnimal();
 yourAnimal();
 
-
-
 function add2(n) {
   return n + 2;
 }
 add2(5);
-
-
-
 
 var funkyFunction = function() {
   return function() {
